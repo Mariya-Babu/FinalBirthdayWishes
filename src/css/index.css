@@ -273,6 +273,7 @@ body, html{
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%);
+	font-size: 18px;
 }
 
 .circle--stuff svg{
@@ -396,7 +397,7 @@ body, html{
 	transform: translateY(-40%);
 	text-transform: uppercase;
 	letter-spacing: 0.1em;
-	font-size:5em;
+	font-size:2em;
 	color:#fff;
 }
 
@@ -631,7 +632,7 @@ body, html{
 	color:#1080f2;
 	text-transform: uppercase;
 	margin:0;
-	font-size:5em;
+	font-size:2.7em;
 }
 
 .third--canvas .center--line h1 > span{
